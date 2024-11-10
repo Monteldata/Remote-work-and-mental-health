@@ -35,3 +35,21 @@ Data Structuring: I organized the dataset into an Excel table format, improving 
 Find and Replace: I used the "Find and Replace" function to identify and correct any inconsistencies or unintended data entries, ensuring accurate, standardized information across all columns.
 
 Overall, while the dataset was relatively clean initially, I applied these steps to verify its accuracy, completeness, and proper formatting.
+
+### Exploratory Data Analysis
+
+How does work location (remote, hybrid, onsite) influence stress levels?
+
+What is the relationship between social isolation and job satisfaction?
+
+Are there demographic trends in mental health conditions?
+
+Does access to mental health resources vary by work location, and how does this impact stress levels?
+
+### Data Analysis
+
+Included some SQL queries I deployed
+
+SQL:
+
+
