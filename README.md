@@ -57,14 +57,14 @@ Regarding this Question: How does work location (remote, hybrid, onsite) influen
 Data Overview:
 The dataset contains information about employees' Work Location and their corresponding Stress Level. The stress levels are categorized as:
 
-Low
-Medium
+Low,
+Medium,
 High
 
 To perform the analysis, stress levels were assigned numeric values for easier calculation:
 
-Low = 1
-Medium = 2
+Low = 1,
+Medium = 2,
 High = 3
 
 Methodology:
@@ -89,6 +89,7 @@ The query results in the following average numeric stress levels for each work l
 <img width="212" alt="image" src="https://github.com/user-attachments/assets/3c1f9ae4-0977-4f76-a27e-c1069066d6f6">
 
 Interpretation:
+
 Hybrid workers have an average stress level of 2.01, which is close to Medium on the stress scale.
 
 Remote workers have a slightly higher average stress level of 2.03, indicating that remote workers, on average, experience a medium level of stress.
